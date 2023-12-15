@@ -1,0 +1,17 @@
+ThreadException による例外通知です。
+
+アプリケーションでエラーが発生しました。
+
+【エラー内容】
+CreateHandle() の実行中は値 Dispose() を呼び出せません。
+
+【スタックトレース】
+   場所 System.Windows.Forms.Control.Dispose(Boolean disposing)
+   場所 System.ComponentModel.Component.Dispose()
+   場所 System.Windows.Forms.Control.Dispose(Boolean disposing)
+   場所 System.ComponentModel.Component.Dispose()
+   場所 System.Windows.Forms.Control.Dispose(Boolean disposing)
+   場所 System.Windows.Forms.Form.Dispose(Boolean disposing)
+   場所 System.Windows.Forms.Form.WmClose(Message& m)
+   場所 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+

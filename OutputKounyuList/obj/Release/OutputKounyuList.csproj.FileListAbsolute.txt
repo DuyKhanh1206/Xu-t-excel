@@ -1,0 +1,12 @@
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\obj\Release\OutputKounyuList.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\obj\Release\OutputKounyuList.csproj.ResolveComReference.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\obj\Release\OutputKounyuList.frmSearch.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\obj\Release\OutputKounyuList.frmVersionHistory.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\obj\Release\OutputKounyuList.MainForm.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\obj\Release\OutputKounyuList.Properties.Resources.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\obj\Release\OutputKounyuList.csproj.GenerateResource.Cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\bin\Release\OutputKounyuList.exe.config
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\bin\Release\OutputKounyuList.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\bin\Release\OutputKounyuList.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\obj\Release\OutputKounyuList.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\obj\Release\OutputKounyuList.pdb

@@ -1,0 +1,12 @@
+UnhandledException による例外通知です。
+
+アプリケーションでエラーが発生しました。
+
+【エラー内容】
+'Pdftools.PdfPrint.Printer' のタイプ初期化子が例外をスローしました。
+
+【スタックトレース】
+   場所 Pdftools.PdfPrint.Printer..ctor()
+   場所 OutputKounyuList.Program.readyApplication()
+   場所 OutputKounyuList.Program.Main()
+

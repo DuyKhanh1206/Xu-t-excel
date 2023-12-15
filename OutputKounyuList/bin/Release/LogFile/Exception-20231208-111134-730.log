@@ -1,0 +1,14 @@
+ThreadException による例外通知です。
+
+アプリケーションでエラーが発生しました。
+
+【エラー内容】
+インデックスが範囲を超えています。負でない値で、コレクションのサイズよりも小さくなければなりません。
+パラメーター名:index
+
+【スタックトレース】
+   場所 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   場所 OutputKounyuList.frmSearch.Window2Data() 場所 C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\yatteimasu\Excel_I.O\OutputKounyuList_V3003\OutputKounyuList\frmSearch.cs:行 144
+   場所 System.Windows.Forms.Form.OnFormClosed(FormClosedEventArgs e)
+   場所 System.Windows.Forms.Form.CheckCloseDialog(Boolean closingOnly)
+

@@ -1,0 +1,50 @@
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\bin\Debug\OutputKounyuList.exe.config
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\bin\Debug\OutputKounyuList.exe
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\bin\Debug\OutputKounyuList.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.ResolveComReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\obj\x86\Debug\OutputKounyuList.frmSearch.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\obj\x86\Debug\OutputKounyuList.frmVersionHistory.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\obj\x86\Debug\OutputKounyuList.MainForm.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\obj\x86\Debug\OutputKounyuList.Properties.Resources.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.GenerateResource.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\obj\x86\Debug\OutputKounyuList.exe
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001\OutputKounyuList\obj\x86\Debug\OutputKounyuList.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\bin\Debug\OutputKounyuList.exe.config
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\bin\Debug\OutputKounyuList.exe
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\bin\Debug\OutputKounyuList.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.ResolveComReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\obj\x86\Debug\OutputKounyuList.frmSearch.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\obj\x86\Debug\OutputKounyuList.frmVersionHistory.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\obj\x86\Debug\OutputKounyuList.MainForm.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\obj\x86\Debug\OutputKounyuList.Properties.Resources.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.GenerateResource.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\obj\x86\Debug\OutputKounyuList.exe
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3001 - コピー\OutputKounyuList\obj\x86\Debug\OutputKounyuList.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\bin\Debug\OutputKounyuList.exe.config
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\bin\Debug\OutputKounyuList.exe
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\bin\Debug\OutputKounyuList.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.AssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.ResolveComReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.frmSearch.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.frmVersionHistory.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.MainForm.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.Properties.Resources.resources
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.GenerateResource.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.exe
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita\購入依頼リスト出力\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.pdb
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\bin\Debug\OutputKounyuList.exe.config
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\bin\Debug\OutputKounyuList.exe
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\bin\Debug\OutputKounyuList.pdb
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.AssemblyReference.cache
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.ResolveComReference.cache
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.frmSearch.resources
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.frmVersionHistory.resources
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.MainForm.resources
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.Properties.Resources.resources
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.GenerateResource.cache
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.csproj.CoreCompileInputs.cache
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.exe
+C:\Development\OutputKounyuList_Source\OutputKounyuList_V3002\OutputKounyuList\obj\x86\Debug\OutputKounyuList.pdb
